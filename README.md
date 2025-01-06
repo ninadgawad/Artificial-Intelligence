@@ -1,5 +1,5 @@
 # Artificial-Intelligence
-Artificial Intelligence
+
 
 ## How AI is Transforming the World Around Us
 Artificial Intelligence (AI) is revolutionizing the way we build software, unlocking innovations that improve healthcare, empower individuals, drive smart infrastructure, enhance entertainment, and contribute to sustainability efforts.
